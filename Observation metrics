@@ -1,0 +1,6 @@
+Objective: Some Observations to Calculate revenue and profit metrics from the data.
+Cost Of Goods sold (COGS) = units_price * quantity
+Value Added Tax (VAT) = 5% * COGS 𝑉𝐴𝑇 is added to the 𝐶𝑂𝐺𝑆 and this is what is billed to the customer
+total= VAT + COGS total is nothing but total revenue (or) gross_sales
+gross_income (Gross_profit) = total - COGS
+Gross Margin (%) = Gross_profit/ total revenue Gross Margin is gross profit expressed in percentage of the total revenue
